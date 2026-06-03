@@ -1,0 +1,33 @@
+# Rider / IDE
+.idea/
+.vs/
+
+# .NET
+bin/
+obj/
+
+*.user
+*.suo
+*.DotSettings.user
+*.sln.iml
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+coverage/
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.*
+
+# Docker
+docker-data/
+
+# OS
+.DS_Store
+Thumbs.db

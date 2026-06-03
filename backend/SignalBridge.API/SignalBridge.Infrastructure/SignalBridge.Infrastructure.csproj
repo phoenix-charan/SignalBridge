@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SignalBridge.Application\SignalBridge.Application.csproj" />
+      <ProjectReference Include="..\SignalBridge.Domain\SignalBridge.Domain.csproj" />
+    </ItemGroup>
+
+</Project>
