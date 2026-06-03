@@ -10,4 +10,9 @@
       <ProjectReference Include="..\SignalBridge.Domain\SignalBridge.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="FluentValidation" Version="10.1.0" />
+      <PackageReference Include="MediatR" Version="10.0.1" />
+    </ItemGroup>
+
 </Project>
