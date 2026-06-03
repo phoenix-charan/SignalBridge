@@ -15,4 +15,8 @@
       <ProjectReference Include="..\SignalBridge.Infrastructure\SignalBridge.Infrastructure.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Controllers\" />
+    </ItemGroup>
+
 </Project>
