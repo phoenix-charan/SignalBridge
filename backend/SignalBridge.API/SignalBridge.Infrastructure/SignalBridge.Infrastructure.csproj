@@ -22,4 +22,9 @@
       <PackageReference Include="System.Security.Cryptography.Xml" Version="11.0.0-preview.4.26230.115" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Configurations\" />
+      <Folder Include="Services\" />
+    </ItemGroup>
+
 </Project>

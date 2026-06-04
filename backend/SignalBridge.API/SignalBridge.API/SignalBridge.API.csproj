@@ -23,7 +23,11 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Folder Include="Configurations\" />
       <Folder Include="Controllers\" />
+      <Folder Include="Extensions\" />
+      <Folder Include="Hubs\" />
+      <Folder Include="Middlewares\" />
     </ItemGroup>
 
 </Project>
